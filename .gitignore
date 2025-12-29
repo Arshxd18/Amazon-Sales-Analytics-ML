@@ -1,0 +1,23 @@
+# Excel temp files
+~$*.xlsx
+*.tmp
+
+# Python / ML
+__pycache__/
+*.pyc
+*.pyo
+*.pkl
+*.joblib
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Large datasets
+data/
+datasets/
+*.csv
+*.xlsx
+
+# OS files
+.DS_Store
+
