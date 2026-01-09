@@ -45,9 +45,9 @@ An end-to-end data analytics project using **Excel dashboards** and **Machine Le
 
 ---
 
-## Screenshots 📸 
+## Screenshots 📸
 ### Dashboard Overview
-![Dashboard](Screenshot 2025-12-24 at 11.38.25 PM.heic)
+![Dashboard](DASHBOARD.jpg)
 
 ### ML Category Mapping
 ![ML Mapping](Amazon-Sales-Analytics-ML/dashboard_screenshots)
