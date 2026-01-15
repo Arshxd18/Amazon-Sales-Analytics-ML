@@ -1,7 +1,7 @@
 # Amazon-Sales-Analytics-ML
 End-to-end Amazon sales analysis using Excel dashboards and ML-based product category prediction
 
-# Amazon Sales Analytics & Product Category Prediction 📊
+# Amazon Sales Analytics & Product Category Prediction 
 
 An end-to-end data analytics project using **Excel dashboards** and **Machine Learning** to analyze Amazon-style e-commerce transactions and predict correct product categories.
 
